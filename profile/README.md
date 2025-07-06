@@ -36,5 +36,6 @@
     - 특정 ID를 가진 상품을 삭제하는 기능
     - HTTP 메서드: DELETE
     - 엔드포인트: `/api/products/{id}`
+<img width="441" alt="스크린샷 2025-07-06 오후 4 14 29" src="https://github.com/user-attachments/assets/697fa6ec-77fc-4088-921c-01699bc34545" />
 
 </details>
