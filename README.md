@@ -17,3 +17,4 @@
     - 특정 ID를 가진 상품을 삭제하는 기능
     - HTTP 메서드: DELETE
     - 엔드포인트: `/api/products/{id}`
+  
