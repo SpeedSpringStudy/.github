@@ -12,8 +12,7 @@
 #
 #
 #
-# spring-gift-product(Week#1_Step#1)
-
+# Week#1
 <details>
 <summary><strong>Week#1-Step#1</strong></summary>
 
@@ -41,8 +40,8 @@
 </details>
 
 
-## step1 - 조회, 추가, 수정, 삭제 API(Week#1_Step#2)
 <details>
+<summary><strong>Week#1-Step#2</strong></summary>
 - [x] **상품 조회**
   - 상품 목록을 조회하는 기능
   - HTTP 메서드: GET
