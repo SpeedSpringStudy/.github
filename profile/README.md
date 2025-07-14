@@ -117,7 +117,7 @@
 
 # Week2
 
-<datails>
+<details>
 <summary><strong>Week#2-Step#1</strong></summary>
 # spring-gift-wishlist
 
