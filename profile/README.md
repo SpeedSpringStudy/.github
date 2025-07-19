@@ -140,3 +140,10 @@
 ### 토큰 발급
 - [ ] 로그인이 완료된다면 토큰 제공 (bearer 방식 -> JWT 사용)
 </details>
+
+<details>
+<sumary><strong>Week#2-Step#3</strong></sumary>
+### 위시리스트 추가
+- [ ] 유저 아이디로 식별 가능한 위시리스트 구현
+
+</details>
