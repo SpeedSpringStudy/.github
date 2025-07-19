@@ -145,5 +145,4 @@
 <sumary><strong>Week#2-Step#3</strong></sumary>
 ### 위시리스트 추가
 - [ ] 유저 아이디로 식별 가능한 위시리스트 구현
-
 </details>
