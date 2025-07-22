@@ -12,6 +12,7 @@
 #
 #
 #
+
 # Week#1
 <details>
 <summary><strong>Week#1-Step#1</strong></summary>
@@ -88,8 +89,6 @@
   - `fetch` API를 사용하여 서버와 통신
 </details>
 
-
-
 <details>
 <summary><strong>Week#1-Step#3</strong></summary>
     
@@ -114,37 +113,40 @@
   - 상품 삭제 시 데이터베이스에서 정보 삭제
 </details>
 
-
 # Week2
 
 <details>
 <summary><strong>Week#2-Step#1</strong></summary>
-# spring-gift-wishlist
 
-## step1 - 유효성 검사 및 예외처리
+### step1 - 유효성 검사 및 예외처리
 
-### 기능 구현
-1. 상품 추가, 수정 시 유효성 검사
-    -[ ] 상품 이름은 공백 포함 최대 15자까지 입력 가능
-    -[ ] 가능한 특수 문자: ( ), [ ], +, -, &, /, _
-    -[ ] "카카오"가 포함된 문구는 담당 MD와 협의한 경우에만 사용 가능
+#### 기능 구현
+
+1. 상품 추가, 수정 시 유효성 검사  
+   - [ ] 상품 이름은 공백 포함 최대 15자까지 입력 가능  
+   - [ ] 가능한 특수 문자: ( ), [ ], +, -, &, /, _  
+   - [ ] "카카오"가 포함된 문구는 담당 MD와 협의한 경우에만 사용 가능  
+
 </details>
-
 
 <details>
 <summary><strong>Week#2-Step#2</strong></summary>
-### 로그인 및 회원가입 
-- [ ] email, password 를 통한 회원가입
-- [ ] 유저 정보를 기반으로 한 로그인
 
-### 토큰 발급
+### 로그인 및 회원가입
+
+- [ ] email, password 를 통한 회원가입  
+- [ ] 유저 정보를 기반으로 한 로그인  
+
+#### 토큰 발급  
 - [ ] 로그인이 완료된다면 토큰 제공 (bearer 방식 -> JWT 사용)
-</details>
 
+</details>
 
 <details>
 <summary><strong>Week#2-Step#3</strong></summary>
-- [ ] 위시리스트 추가
-    - 유저 아이디로 식별 가능해야 함
+
+### 위시리스트 추가
+
+- [ ] 유저 아이디로 식별 가능해야 함
 
 </details>
