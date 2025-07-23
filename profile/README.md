@@ -166,9 +166,9 @@
 <details>
 <summary><strong>Week#3-Step#2</strong></summary>
 
-# spring-gift-jpa
+spring-gift-jpa
 
-## step1 - JPA 적용
+### step1 - JPA 적용
 
 1. 기존 코드 리팩토링
     - [ ] 엔티티, 레포지토리 작성
@@ -180,7 +180,7 @@
     - [ ] `@DataJpaTest` 이용하여 테스트 작성
     - [ ] 새로운 E2E 테스트 작성
 
-## step2 - 엔티티 모델링
+### step2 - 엔티티 모델링
 
 1. 엔티티 연관 관계 설정
    - [ ] `Wish` 엔티티가 `User`, `Product` 참조하도록 함
