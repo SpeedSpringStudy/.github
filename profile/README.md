@@ -154,6 +154,7 @@
 # Week3
 <details>
 <summary><strong>Week#3-Step#1</strong></summary>
+    
 ### 기능 요구 사항
 - 기존 JDBC 기반 코드를 JPA 기반으로 리팩토링한다.  
 - 엔티티와 레포지토리 계층을 추가하고 서비스 계층을 JPA 기반으로 수정한다.  
