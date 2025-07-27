@@ -221,14 +221,14 @@ spring-gift-jpa
 아래 예시와 같이 HTTP 메시지를 주고받도록 구현한다.
 
 #### Request
+```
 GET /api/categories HTTP/1.1
-
+```
 #### Response
-
+```
 HTTP/1.1 200
 Content-Type: application/json
 
-[
 {
 “id”: 91,
 “name”: “교환권”,
@@ -236,8 +236,8 @@ Content-Type: application/json
 “imageUrl”: “https://gift-s.kakaocdn.net/dn/gift/images/m640/dimm_theme.png”,
 “description”: “”
 }
-]
 
+```
 ### 프로그래밍 요구 사항
 
 - 구현한 기능에 대해 적절한 테스트 전략을 생각하고 작성한다.
