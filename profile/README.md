@@ -278,3 +278,14 @@ Content-Type: application/json
 
 
 </details>
+
+<details>
+<summary><strong>Week#4-Step#2</strong></summary>
+
+## step 2 - 옵션 추가
+
+### 옵션 추가
+- **옵션 구현**
+  - [ ] 각 상품의 옵션별 잔여 수량 저장 api구현
+
+</details>
